@@ -11,6 +11,7 @@ Main Components:
 - 4x OMC 17hs19-2004s1 motors for the gantry
 - 3x belted Z
 - 250mm AC heated Build Plate
+- 12032 Hepa filter fan
 
 The Frame is made up of different aluminium extrusions types: 2020, 10020, c-beam... (have a look at the cad file)
 The main structural pieces are CNC made from aluminium sheets with different thicknesses 

@@ -6,6 +6,8 @@ For the software i'm using the arduino code written by @tw2ka
 
 All credits for the software and the original design go to @tw2ka. You can find him  and the code for this robot arm on Youtube: https://youtu.be/wI4Jh-T0Tlo?si=jc4HXcvwKqrjOzHO
 
+Video of my robot arm: https://youtube.com/shorts/DbUPSVkNqNw?si=MMjbshM-uVsooVkF
+
 Here are some pictures of my redesign:
 
 ![IMG_1220](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/68b6fd52-c52a-4b05-92bf-187793b961e6)

@@ -17,3 +17,5 @@ Some structural pieces are CNC made from aluminium sheets with different thickne
 ![IMG_1215](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/335eeb51-684b-4114-8b4f-899cb7fa0d2a)
 ![IMG_1214](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/222439d4-d681-4c72-9a9c-fabeb6538449)
 ![IMG_1213](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/fa58fe56-d9b1-4784-95ca-1706987cd1ea)
+
+(Old video): https://youtube.com/shorts/BnOJeoOl4Xc?si=eMNztBJa-qspnOoI

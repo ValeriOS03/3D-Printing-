@@ -24,3 +24,4 @@ https://youtu.be/OW64iXwTxAc?si=vfqf3DiiGJgBdWI4
 https://youtube.com/shorts/gcYi9ysNJRM?si=-d1jmQJQblHw5XRh
 https://youtu.be/jAiYhgCDRa8?si=_8uTXpk02JpKg0Yi
 
+![IMG_1200](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/91ff1a3a-3588-42c2-b0ae-b1eefc48cfd0)

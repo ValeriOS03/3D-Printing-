@@ -19,10 +19,10 @@ Feel free to download the CAD file and modify it at your leisure.
 
 Here are some Youtube videos of this printer: 
 
-https://youtu.be/rlUTXSY-CWc?si=cxDZMAm9_WKzf37z
-https://youtu.be/OW64iXwTxAc?si=vfqf3DiiGJgBdWI4
-https://youtube.com/shorts/gcYi9ysNJRM?si=-d1jmQJQblHw5XRh
-https://youtu.be/jAiYhgCDRa8?si=_8uTXpk02JpKg0Yi
+- https://youtu.be/rlUTXSY-CWc?si=cxDZMAm9_WKzf37z
+- https://youtu.be/OW64iXwTxAc?si=vfqf3DiiGJgBdWI4
+- https://youtube.com/shorts/gcYi9ysNJRM?si=-d1jmQJQblHw5XRh
+- https://youtu.be/jAiYhgCDRa8?si=_8uTXpk02JpKg0Yi
 
 ![IMG_1200](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/91ff1a3a-3588-42c2-b0ae-b1eefc48cfd0)
 ![IMG_1204](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/eb0b1c23-1350-427b-9282-dbed03433be8)

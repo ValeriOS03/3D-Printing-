@@ -25,3 +25,11 @@ https://youtube.com/shorts/gcYi9ysNJRM?si=-d1jmQJQblHw5XRh
 https://youtu.be/jAiYhgCDRa8?si=_8uTXpk02JpKg0Yi
 
 ![IMG_1200](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/91ff1a3a-3588-42c2-b0ae-b1eefc48cfd0)
+![IMG_1204](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/eb0b1c23-1350-427b-9282-dbed03433be8)
+![IMG_1203](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/096162cf-ac27-4e4c-9f02-189036f29cfb)
+![IMG_1202](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/5894f61c-c2d2-4fdf-8860-c5fca0a91ec1)
+![IMG_1201](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/048762df-620f-49d9-ae3f-d14678f4aa53)
+![IMG_1200](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/52b39e9f-8769-4665-96da-5a5079818f65)
+![IMG_1199](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/371cbaaa-323a-45eb-826b-3d9fac726b20)
+![IMG_1198](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/c259a19b-6c06-4a1a-97b1-51fe87e886cf)
+![IMG_1197](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/a1944a88-928e-4529-a073-5b622f38785f)

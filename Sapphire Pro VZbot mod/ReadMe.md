@@ -20,3 +20,5 @@ I kept the original structural parts such as aluminium extrusions, top and botto
 ![IMG_1209](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/a7166e4d-b6bf-457f-83fa-5fc27dc42d55)
 ![IMG_1208](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/9de3fb2a-99d6-4884-a772-d51f36afa607)
 ![IMG_1207](https://github.com/ValeriOS03/3D-Printing-/assets/121107647/174ca79a-88bb-48d7-8ce5-5490ba0b336f)
+
+(Old video): https://youtube.com/shorts/BnOJeoOl4Xc?si=eMNztBJa-qspnOoI

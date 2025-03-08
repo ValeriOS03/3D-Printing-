@@ -2,7 +2,7 @@ MONOLITH is a CrossXY (or Crossed Gantry) 3d printer entirely designed and built
 
 Main Components:
 - Manta M8P with CM4 (running Klipper)
-- TMC2204 from biqu+
+- TMC2240 from biqu+
 - 24v and 36v PSUs
 - Dragon Ace Hotend with Melting Zone Extender
 - MKS THR36 toolhead PCB
